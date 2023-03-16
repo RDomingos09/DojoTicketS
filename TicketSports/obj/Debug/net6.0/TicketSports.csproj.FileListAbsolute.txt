@@ -1,0 +1,15 @@
+C:\Users\rodri\source\repos\TicketSports\TicketSports\obj\Debug\net6.0\TicketSports.csproj.AssemblyReference.cache
+C:\Users\rodri\source\repos\TicketSports\TicketSports\obj\Debug\net6.0\TicketSports.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\source\repos\TicketSports\TicketSports\obj\Debug\net6.0\TicketSports.AssemblyInfoInputs.cache
+C:\Users\rodri\source\repos\TicketSports\TicketSports\obj\Debug\net6.0\TicketSports.AssemblyInfo.cs
+C:\Users\rodri\source\repos\TicketSports\TicketSports\obj\Debug\net6.0\TicketSports.csproj.CoreCompileInputs.cache
+C:\Users\rodri\source\repos\TicketSports\TicketSports\bin\Debug\net6.0\TicketSports.exe
+C:\Users\rodri\source\repos\TicketSports\TicketSports\bin\Debug\net6.0\TicketSports.deps.json
+C:\Users\rodri\source\repos\TicketSports\TicketSports\bin\Debug\net6.0\TicketSports.runtimeconfig.json
+C:\Users\rodri\source\repos\TicketSports\TicketSports\bin\Debug\net6.0\TicketSports.dll
+C:\Users\rodri\source\repos\TicketSports\TicketSports\bin\Debug\net6.0\TicketSports.pdb
+C:\Users\rodri\source\repos\TicketSports\TicketSports\obj\Debug\net6.0\TicketSports.dll
+C:\Users\rodri\source\repos\TicketSports\TicketSports\obj\Debug\net6.0\refint\TicketSports.dll
+C:\Users\rodri\source\repos\TicketSports\TicketSports\obj\Debug\net6.0\TicketSports.pdb
+C:\Users\rodri\source\repos\TicketSports\TicketSports\obj\Debug\net6.0\TicketSports.genruntimeconfig.cache
+C:\Users\rodri\source\repos\TicketSports\TicketSports\obj\Debug\net6.0\ref\TicketSports.dll
